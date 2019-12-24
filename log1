@@ -1,0 +1,23 @@
+[33mcommit ef7e5ec69223b68f701f9ad7c6bf4a90b5bbb560[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Frank <pancho.sask@gmail.com>
+Date:   Tue Dec 24 01:07:06 2019 -0600
+
+    Se ha agredo pagina de inicio
+
+[33mcommit 8d938dbbe13ab9762aa4aa19b9014311196b08d1[m
+Author: Frank <pancho.sask@gmail.com>
+Date:   Tue Dec 24 00:56:58 2019 -0600
+
+    incluimos lite-server.
+
+[33mcommit 0a4d5dc93e7f71ded4b476e648b528d02baf56e0[m
+Author: Frank <pancho.sask@gmail.com>
+Date:   Tue Dec 24 00:19:04 2019 -0600
+
+    definicion del package.json
+
+[33mcommit 08d598e46473bfa392236cd130c658155700661c[m
+Author: Frank <pancho.sask@gmail.com>
+Date:   Mon Dec 23 22:44:58 2019 -0600
+
+    creacion inicial del proyecto con un readme
