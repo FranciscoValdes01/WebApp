@@ -1,0 +1,19 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoValdes01/WebApp.git"
+  },
+  "author": "Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoValdes01/WebApp/issues"
+  },
+  "homepage": "https://github.com/FranciscoValdes01/WebApp#readme"
+}
